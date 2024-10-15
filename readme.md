@@ -24,3 +24,4 @@ cd yourproject
 
 # Install dependencies
 npm install
+chears
